@@ -1,0 +1,8 @@
+content zoteroubb1holdingcheck chrome/content/
+
+overlay chrome://zotero/content/zoteroPane.xul chrome://zoteroubb1holdingcheck/content/overlay.xul
+
+locale  zoteroubb1holdingcheck  en-US   chrome/locale/en-US/
+locale  zoteroubb1holdingcheck  de   chrome/locale/de/
+
+skin    zoteroubb1holdingcheck  default chrome/skin/default/zoteroubb1holdingcheck/

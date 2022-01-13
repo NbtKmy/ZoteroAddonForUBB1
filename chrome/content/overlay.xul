@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://zoteroubb1holdingcheck/locale/overlay.dtd">
+
+<overlay
+    id="zoteroubb1holdingcheck"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script src="chrome://zoteroubb1holdingcheck/content/scripts/zoteroubb1holdingcheck.js"/>
+    <script src="chrome://zotero/content/include.js"/>
+
+    <popup
+        id="zotero-itemmenu">
+        <menu class="menu-iconic" image="chrome://zoteroubb1holdingcheck/skin/glass.png" id="zotero-itemmenu-zoteroubb1holdingcheck-menu" label="&zotero.zoteroubb1holdingcheck.menu.label;">
+            <menupopup id="zotero-itemmenu-zoteroubb1holdingcheck-menupopup">
+                <menuitem
+                    id="zotero-itemmenu-zoteroubb1holdingcheck-check"
+                    label="&zotero.zoteroubb1holdingcheck.locationlookup.label;"
+                    oncommand="ubb1HoldingLookup()"/>
+            </menupopup>
+        </menu>
+    </popup>
+</overlay>
+
+<!--Bild von Pixabay, suche nach Magnifying Glass-->
