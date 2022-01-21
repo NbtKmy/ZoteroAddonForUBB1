@@ -1,10 +1,14 @@
 # Änderungen
 
+## 1.1.0 (Ungerade Zahl der Minor Release-Nummer = Erweiterte Holding-Bibliotheken)
+- Erweiterung der Holding-Bibliotheken
+- Automatischer Update eingestellt
+
 ## 1.0.0 (Betrifft nur UBB1-Holdingchecker)
 - UBB1-Bibliotheken als Holding libraries
 - Rename tags
 
-## 0.1.5 (Betrifft nur ubb1-Holdingchecker)
+## 0.1.5 (Betrifft nur UBB1-Holdingchecker)
 - Bug fix
 - Automatischer Updatemechanismus wieder eingestellt
 
