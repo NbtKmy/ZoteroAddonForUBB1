@@ -5,14 +5,15 @@
     xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <RDF:Description
         RDF:about="urn:mozilla:install-manifest"
-        em:id="nbtkmy1@j-images.ch"
+        em:id="zoteroUBB1HoldingChecker@j-images.ch"
         em:name="Zotero UBB1 Holding Check"
         em:version="1.0.0"
         em:type="2"
         em:creator="Denis Maier"
         em:contributor="Nobutake Kamiya"
         em:description="Zotero-Plugin zur Bestandsabfrage für UBB1"
-        em:homepageURL="https://github.com/NbtKmy/ZoteroAddonForUBB1">
+        em:homepageURL="https://github.com/NbtKmy/ZoteroAddonForUBB1"
+        em:updateURL="https://raw.githubusercontent.com/NbtKmy/ZoteroAddonForUBB1/main/zoteroHoldingCheck-update.rdf">
         <em:type>2</em:type>
         
         <em:targetApplication>
