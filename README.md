@@ -18,6 +18,11 @@ Bedingungen sind:
 - Titel/Item in Zotero is als Book/Buch markiert
 - Titel/Item hat eine gültige ISBN-Nummer
 
+## Holding-Bibliotheken
+
+Man sieht [hier an dieser Stelle](https://github.com/NbtKmy/ZoteroAddonForUBB1/blob/main/chrome/content/scripts/zoteroubb1holdingcheck.js#L13), welche Bibliotheken als "Holding-Bibliotheken" eingetragen sind. 
+
+
 ### How to
 1. Add-on in Zotero installieren
 2. Buchtitel in Zotero markieren, für die man Besitznachweise untersuchen möchte (mehrere Titel möglich)
