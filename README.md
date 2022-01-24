@@ -21,5 +21,23 @@ Sie sind:
 ## Nebenversionsnummer 1
 Erweiterung der Holding-Bibliotheken:
 
-... Wird noch später kommen...
+- UNI-ES, // Anglistik
+- UBFB, // Betriebswirtschaft
+- UIFE, // Erziehungswissenschaft (FRE)
+- UESZ, // Ethnologie & Soziologie 
+- USIUZ, // Ethnologie & Soziologie 
+- UDS, // Germanistik & Skandinavistik
+- UMBC, // Medizin Careum
+- UFBI, // Naturwissenschaften
+- UBOT, // Pflanzenwissenschaften
+- UVK, // Populäre Kulturen & Filmwissenschaft
+- UPSYC, // Psychologie
+- UNI-RWI, // Rechtswissenschaften
+- UROSE, // Romanistik
+- UKOMP, // Slavistik, AVL & Vergleichende Sprachwissenschaft
+- ULING, // Slavistik, AVL & Vergleichende Sprachwissenschaft
+- UVET, // Veterinärmedizin
+- UVMZ, // Völkerkundemuseum
+ - UECON // Volkswirtschaft
+
 
