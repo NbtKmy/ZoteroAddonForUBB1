@@ -7,7 +7,7 @@
         RDF:about="urn:mozilla:install-manifest"
         em:id="zoteroAddonForUBB1EnlargedHolding@j-images.ch"
         em:name="Zotero UBB1 Holding Check (with enlarged holding library)"
-        em:version="1.1.0"
+        em:version="1.1.1"
         em:type="2"
         em:creator="Denis Maier"
         em:contributor="Nobutake Kamiya"
@@ -18,8 +18,8 @@
         <em:targetApplication>
             <Description>
                 <em:id>zotero@chnm.gmu.edu</em:id>
-                <em:minVersion>5.0</em:minVersion>
-                <em:maxVersion>5.*</em:maxVersion>
+                <em:minVersion>5.0.0</em:minVersion>
+                <em:maxVersion>6.*</em:maxVersion>
             </Description>
         </em:targetApplication>
     </RDF:Description>
