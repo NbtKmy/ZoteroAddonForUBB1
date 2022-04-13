@@ -7,13 +7,13 @@
                 <rdf:li>
                     <rdf:Description>
 
-                        <em:version>1.0.0</em:version>
+                        <em:version>1.0.1</em:version>
                         <em:targetApplication>
                             <rdf:Description>
                                 <em:id>zotero@chnm.gmu.edu</em:id>
                                 <em:minVersion>5.0.0</em:minVersion>
-                                <em:maxVersion>5.*</em:maxVersion>
-                                <em:updateLink>https://github.com/NbtKmy/ZoteroAddonForUBB1/releases/download/v1.0.0/zotero-ubb1-holding-1.0.0.xpi</em:updateLink>
+                                <em:maxVersion>6.*</em:maxVersion>
+                                <em:updateLink>https://github.com/NbtKmy/ZoteroAddonForUBB1/releases/download/v1.0.1/zotero-ubb1-holding-1.0.1.xpi</em:updateLink>
                             </rdf:Description>
                         </em:targetApplication>
 
